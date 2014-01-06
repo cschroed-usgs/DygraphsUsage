@@ -4,7 +4,6 @@
     <head>
         <meta charset="UTF-8">
         <title>Dygraphs Examples</title>
-        <script type="text/javascript" src="webjars/dygraphs/1.0.1/dygraph-combined.js"></script>
     </head>
 
     <body>
